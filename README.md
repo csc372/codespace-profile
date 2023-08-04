@@ -1,5 +1,5 @@
 # Codespaces
-We will use Codespaces to load everything you need to write and run your code. Use the following steps to get started:
+We will use Codespaces to load everything you need to write and run your HTML code. Use the following steps to get started:
 <ul>
   <li>Open the <a href="https://github.com/join">GitHub Sign In page</a> and log into your GitHub account. </li>
   <li>Click <a href="https://github.com/csctd/codespace-html">*here*</a> to open the “codespace-html” repository. </li>
